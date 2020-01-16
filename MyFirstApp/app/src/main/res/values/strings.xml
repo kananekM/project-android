@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My First Android App</string>
+    <string name="textName">Your name:</string>
+    <string name="textPhone">Your phone:</string>
+    <string name="name_value"></string>
+    <string name="phone_value"></string>
+    <string name="summitBt">SUBMIT</string>
+    <string name="textPlus">\u0020 has phone number as \u0020</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">แอนดรอยด์แอปแรกของฉัน</string>
+    <string name="textName">ชื่อ:</string>
+    <string name="textPhone">โทรศัพท์:</string>
+    <string name="name_value"></string>
+    <string name="phone_value"></string>
+    <string name="summitBt">ส่ง</string>
+    <string name="textPlus">\u0020  \u0020</string>
+</resources>
